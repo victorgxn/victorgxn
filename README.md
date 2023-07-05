@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id = "header" align = "center" >
+    <img src="https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif"  width="400" alt="">
+    <h3 align = "center">Developer student from Malaga</h3>
+  🔭  Hi, I’m @LiSeeZWeb
 
-<!--
-**LiSeeZWeb/LiSeeZWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📗 Learning C, Shell , Java , JavaScript, PHP
 
-Here are some ideas to get you started:
+        💬 Reach me via : liseezbusiness@gmail.com
+   If you find useful any of my repositories, a star 🌟 would be nice! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Clash royale addicted 👯
+</div>
+
+
+
