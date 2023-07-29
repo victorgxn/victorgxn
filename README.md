@@ -3,7 +3,7 @@
     <h3 align = "center">Developer student from Malaga</h3>
   🔭  Hi, I’m @LiSeeZWeb
 
-📗 Learning C, Shell , Java , JavaScript, PHP, SQL
+📗 Learning C, Shell.
 
         💬 Reach me via : liseezbusiness@gmail.com
    If you find useful any of my repositories, a star 🌟 would be nice! 😊
