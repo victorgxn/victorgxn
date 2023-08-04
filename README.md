@@ -3,7 +3,7 @@
     <div id = "header" align = "center" >
   🔭  Hi, I’m @LiSeeZWeb
 
-📗 Learning C, Shell.
+📗 Learning C/C++.
 
         💬 Reach me via : liseezbusiness@gmail.com
    If you find useful any of my repositories, a star 🌟 would be nice! 😊
