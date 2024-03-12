@@ -3,7 +3,7 @@
     <div id = "header" align = "center" >
  
 
-📗 Learning C/ PHP / JS
+📗 Learning Nextjs / jest / symfony
 
 
 
