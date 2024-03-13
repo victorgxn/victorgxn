@@ -3,7 +3,7 @@
     <div id = "header" align = "center" >
  
 
-📗 Learning Nextjs / Symfony / Nestjs
+📗 Learning Nextjs / Symfony / Tailwind
 
 
 
