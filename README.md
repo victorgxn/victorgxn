@@ -11,6 +11,9 @@
 - [Hexagonal architecture](https://victorg.es/posts/arquitectura-hexagonal)  
 <!-- BLOG:END -->
 
+### 🍳 Cooking
+- Advent of code 2023 in java
+
 ### 📬 Connect with me:
                   
 <p align="left">
