@@ -2,13 +2,13 @@
 
 - 👨‍🏫 I enjoy learning coding skills as well share/document my progress
 - 🌱 I'm currently growing my logic in [LeetCode][leetcode]
-- 👨‍💻 Read my articles at [victor.es][website]
+- 👨‍💻 Read my articles at [victor.es][website] (ES 🇪🇸)
 - 🏆 Goal: Enjoy what I do every day
 
-### 📚 Latest Blog Posts
+### 📚 Latest Blog Posts 
 
 <!-- BLOG:START -->
-- [Hexagonal architecture](https://victorg.es/posts/arquitectura-hexagonal)  
+- [Hexagonal architecture](https://victorg.es/posts/arquitectura-hexagonal)   
 <!-- BLOG:END -->
 
 ### 🍳 Cooking
