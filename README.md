@@ -8,7 +8,7 @@
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG:START --> 
-- [Tablas hash](https://victorg.es/posts/tablas-hash)   
+- [Hash table](https://victorg.es/posts/tablas-hash)   
 - [Hexagonal architecture](https://victorg.es/posts/arquitectura-hexagonal)   
 <!-- BLOG:END -->
 
