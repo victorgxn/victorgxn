@@ -12,7 +12,7 @@
 <!-- BLOG:END -->
 
 ### 🍳 Cooking
-- Learning docker
+- Learning docker, kubernetes
 
 ### 📬 Connect with me:
                   
