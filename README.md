@@ -12,7 +12,7 @@
 <!-- BLOG:END -->
 
 ### 🍳 Cooking
-- Advent of code 2023 in java
+- Learning docker
 
 ### 📬 Connect with me:
                   
