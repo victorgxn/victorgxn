@@ -13,7 +13,6 @@
 
 ### 🍳 Cooking
 - Learning docker, kubernetes
-
 ### 📬 Connect with me:
                   
 <p align="left">
@@ -40,6 +39,56 @@
         </picture>
     </a>&nbsp;&nbsp;
 </p>
+
+<div align="center">
+   <kbd align="center">
+      <kbd>programing languages</kbd>
+      <br>
+      <br>
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </kbd>
+  <kbd align="center">
+      <kbd>back-end</kbd>
+      <br>
+      <br>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
+  </kbd>
+  <kbd align="center">
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/github-jc-develop/nextjs-line_ytriv1.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  </kbd>
+  <kbd align="center">
+      <kbd>Databases</kbd>
+      <br>
+      <br>
+      <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />>
+  </kbd>
+  <kbd align="center">
+        <kbd>Tools</kbd>
+        <br>
+        <br>
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-jc-develop/github-original_tuedqb.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+  </kbd>
+</div>
+<br>
 
 [leetcode]: https://leetcode.com/u/LiSeeZ/
 [website]: https://victorg.es/
