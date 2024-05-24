@@ -1,7 +1,6 @@
 ## I'm victorg 🙋🏻
 
 - 👨‍🏫 I enjoy learning coding skills as well share/document my progress
-- 🌱 I'm currently growing my logic in [LeetCode][leetcode]
 - 👨‍💻 Read my articles at [victor.es][website] (ES 🇪🇸)
 - 🏆 Goal: Enjoy what I do every day
 
