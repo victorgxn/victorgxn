@@ -1,7 +1,6 @@
 ## I'm victorg 🙋🏻
 
 - 👨‍🏫 I enjoy learning coding skills as well share/document my progress
-- 👨‍💻 Read my articles at [victor.es][website] (ES 🇪🇸)
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and doing various sports.
