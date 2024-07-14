@@ -4,15 +4,11 @@
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and doing various sports.
-
 ### 📚 Latest Blog Posts 
 
 <!-- BLOG:START --> 
 - [Hash table](https://victorg.es/posts/tablas-hash)    
 <!-- BLOG:END -->
-
-### 🍳 Cooking
-- Learning docker, kubernetes, rust
 ### 📬 Connect with me:
                   
 <p align="left">
