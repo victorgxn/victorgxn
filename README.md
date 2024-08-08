@@ -4,7 +4,7 @@
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and running.
-- 🧠 Focus learning docker / kubernetes / CI-CD
+- 🧠 Learning docker / kubernetes 
 ### 📬 Connect with me:
                   
 <p align="left">
