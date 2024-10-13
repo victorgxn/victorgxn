@@ -1,11 +1,11 @@
-## I'm victorg 🙋🏻
+## I'm victorg 👓
 
 - 👨‍🏫 I enjoy learning as well share/document my progress
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and running.
 - 🦫 Learning golang 
-### 📬 Connect with me:
+### 📬 Social media:
                   
 <p align="left">
     </a>&nbsp;&nbsp;
