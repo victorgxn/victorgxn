@@ -4,6 +4,7 @@
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and running.
+- 🦫 Learning golang 
 ### 📬 Connect with me:
                   
 <p align="left">
@@ -30,6 +31,8 @@
         </picture>
     </a>&nbsp;&nbsp;
 </p>
+
+### 📷 Lately, I've been posting videos about my personal life and habits on YouTube.
 
 
 [leetcode]: https://leetcode.com/u/LiSeeZ/
