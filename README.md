@@ -33,6 +33,8 @@
 </p>
 
 ### 📷 Lately, I've been posting videos about my personal life and habits on YouTube.
+[Day in The Life of a Software Engineer 🇪🇸](https://youtu.be/ppan1I0KQIM)
+
 
 
 [leetcode]: https://leetcode.com/u/LiSeeZ/
