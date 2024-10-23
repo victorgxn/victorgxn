@@ -32,8 +32,8 @@
     </a>&nbsp;&nbsp;
 </p>
 
-### 📷 Lately, I've been posting videos about my personal life and habits on YouTube.
-[Day in The Life of a Software Engineer 🇪🇸](https://youtu.be/ppan1I0KQIM)
+### 📷 Lately, I've been posting videos about my personal life and habits on YouTube (ESP 🇪🇸).
+[Day in The Life of a Software Engineer](https://youtu.be/ppan1I0KQIM)
 
 
 
