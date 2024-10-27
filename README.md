@@ -4,9 +4,8 @@
 - 🏆 Goal: Enjoy what I do every day
 - 📚 Currently, I'm studying software engineer at VIU, while working as a full stack programmer .
 - 🏃 Other than that, I spend my time going to the gym and running.
-- 🦫 Learning golang 
+- 
 ### 📬 Social media:
-                  
 <p align="left">
     </a>&nbsp;&nbsp;
     <a href="https://www.github.com/victorgxn" target="_blank" rel="noreferrer">
