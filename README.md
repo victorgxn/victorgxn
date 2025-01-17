@@ -32,7 +32,7 @@
 </p>
 
 ### 📷 Lately, I've been posting videos about my personal life and habits on YouTube (ESP 🇪🇸).
-[Day in The Life of a Software Engineer](https://youtu.be/jYxn5CcJfCI)
+[Day in The Life of a Software Engineer](https://youtu.be/I23DFEl_RZo)
 
 
 
