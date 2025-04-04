@@ -1,40 +1,19 @@
-## I'm victorg 👓
+# 👋 Hola, soy Victor Gonzalez
+Programo cosas y enseño como lo hago en youtube 
 
-- 👨‍🏫 I enjoy learning as well share/document my progress
-- 🏆 Goal: Enjoy what I do every day
-- 📚 Currently, I'm studying software engineer at VIU, while working as a full stack developer (Rust / TS)
-- 🏃 Other than that, I spend my time going to the gym and running
-
-### 📬 Social media:
-<p align="left">
-    </a>&nbsp;&nbsp;
-    <a href="[https://www.github.com/victorgxn](https://www.youtube.com/@victorgxn)" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-        </picture>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/victorgxn" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.x.com/liseez_" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>&nbsp;&nbsp;
-</p>
-
-### 📷 Lately, I've been posting videos about my personal life and habits on YouTube (ESP 🇪🇸).
+## 👷🏻‍♂️ Mis proyectos
+- ⚡ [Blitzshare](https://www.blitz-share.com/): Gestiona tus redes sociales en unico lugar.
+- 
+## 📢 Redes Sociales
+### 🌐 Encuéntrame en:
+- 🧑🏻 Instagram personal: [@victorgxn](https://www.instagram.com/victorgxn)
+- 💻 Instagram (Programación): [@codegxn](https://www.instagram.com/codegxn)
+- 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)
+- 💻 YouTube (Programación): [Code GXN](https://www.youtube.com/@codegxn)
+- 
+### 📷 Ultimo video (ESP 🇪🇸).
 [Day in The Life of a Software Engineer](https://youtu.be/I23DFEl_RZo)
 
 
 
-[leetcode]: https://leetcode.com/u/LiSeeZ/
-[website]: https://victorg.es/
+
