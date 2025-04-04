@@ -3,9 +3,8 @@ Programo cosas y enseño como lo hago en youtube
 
 ## 👷🏻‍♂️ Mis proyectos
 - ⚡ [Blitzshare](https://www.blitz-share.com/): Gestiona tus redes sociales en unico lugar.
-- 
+
 ## 📢 Redes Sociales
-### 🌐 Encuéntrame en:
 - 🧑🏻 Instagram personal: [@victorgxn](https://www.instagram.com/victorgxn)
 - 💻 Instagram (Programación): [@codegxn](https://www.instagram.com/codegxn)
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)
