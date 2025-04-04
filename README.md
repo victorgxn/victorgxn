@@ -9,7 +9,7 @@ Programo cosas y enseño como lo hago en youtube
 - 💻 Instagram (Programación): [@codegxn](https://www.instagram.com/codegxn)
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)
 - 💻 YouTube (Programación): [Code GXN](https://www.youtube.com/@codegxn)
-- 
+  
 ### 📷 Ultimo video (ESP 🇪🇸).
 [Day in The Life of a Software Engineer](https://youtu.be/I23DFEl_RZo)
 
