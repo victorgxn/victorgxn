@@ -6,7 +6,7 @@ Programo cosas y enseño como lo hago en youtube
 
 ## 📢 Redes Sociales
 - 🧑🏻 Instagram personal: [@victorgxn](https://www.instagram.com/victorgxn)
-- 💻 Instagram (Programación): [@codegxn](https://www.instagram.com/codegxn)
+- 💻 Instagram (Programación): [@codegxn](https://www.instagram.com/code.gxn)
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)
 - 💻 YouTube (Programación): [Code GXN](https://www.youtube.com/@codegxn)
   
