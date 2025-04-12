@@ -10,8 +10,10 @@ Programo cosas y enseño como lo hago en youtube
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)
 - 💻 YouTube (Programación): [Code GXN](https://www.youtube.com/@codegxn)
   
-### 📷 Ultimo video (ESP 🇪🇸).
-[Day in The Life of a Software Engineer](https://youtu.be/I23DFEl_RZo)
+### 📷 Ultimo video de mi canal.
+[Como no aburrite programando](https://youtu.be/I23DFEl_RZo)
+
+### ✍🏼 Post interesantes de mi blog
 
 
 
