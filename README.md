@@ -11,7 +11,7 @@ Programo cosas y enseño como lo hago en youtube
 - 💻 YouTube (Programación): [Code GXN](https://www.youtube.com/@codegxn)
   
 ### 📷 Ultimo video de mi canal.
-[Como no aburrite programando](https://youtu.be/I23DFEl_RZo)
+[Como no aburrirte programando](https://youtu.be/I23DFEl_RZo)
 
 ### ✍🏼 Post interesantes de mi blog
 
