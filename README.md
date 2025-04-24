@@ -2,6 +2,7 @@
 I code things and share how I do it on YouTube.
 
 ## 👷🏻‍♂️ My Projects  
+- 🏋🏼‍♂️ [Devfit90](https://www.devfit90.com/es): 90 day coding and exercise challengue, no excuses.
 - ⚡ [Blitzshare](https://www.blitz-share.com/): Manage all your social networks in one place.
 
 ## 📢 Social Media  
