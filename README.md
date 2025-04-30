@@ -14,4 +14,3 @@ I code things and share how I do it on YouTube.
 ### 📷 Latest video on my channel  
 [How to not get bored while coding](https://youtu.be/I23DFEl_RZo) (ESP 🇪🇸)
 
-### ✍🏼 Interesting blog posts  
