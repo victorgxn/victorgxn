@@ -11,6 +11,4 @@ I code things and share how I do it on YouTube.
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)  
 - 💻 YouTube (Programming): [Code GXN](https://www.youtube.com/@codegxn)
 
-### 📷 Latest video on my channel  
-[How to not get bored while coding](https://youtu.be/I23DFEl_RZo) (ESP 🇪🇸)
 
