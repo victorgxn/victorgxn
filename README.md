@@ -3,7 +3,7 @@ I code things and share how I do it on YouTube.
 
 ## 👷🏻‍♂️ My Projects  
 - 🏋🏼‍♂️ [Devfit90](https://www.devfit90.com/es): Lifestyle challenge for the top 1% of developers.
-- ⚡ [Blitzshare](https://www.blitz-share.com/): Manage all your social networks in one place.
+- ⚡ [Blitzshare](https://www.blitz-share.com/): Turn your audience into revenue.
 
 ## 📢 Social Media  
 - 🧑🏻 Personal Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
