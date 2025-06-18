@@ -7,7 +7,7 @@ I code things and share how I do it on YouTube.
 
 ## 📢 Social Media  
 - 🧑🏻 Instagram: [@codegxn](https://www.instagram.com/victorgxn)  
-- 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)  
+- 🎬 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)  
 - 💻 YouTube (Programming): [Code GXN](https://www.youtube.com/@codegxn)
 
 
