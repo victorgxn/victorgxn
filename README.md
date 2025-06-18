@@ -6,8 +6,7 @@ I code things and share how I do it on YouTube.
 - ⚡ [Blitzshare](https://www.blitz-share.com/): Turn your audience into revenue.
 
 ## 📢 Social Media  
-- 🧑🏻 Personal Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
-- 💻 Programming Instagram: [@codegxn](https://www.instagram.com/code.gxn)  
+- 🧑🏻 Instagram: [@codegxn](https://www.instagram.com/victorgxn)  
 - 🧑🏻 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)  
 - 💻 YouTube (Programming): [Code GXN](https://www.youtube.com/@codegxn)
 
