@@ -2,7 +2,7 @@
 I code things and share how I do it on YouTube.
 
 ## 👷🏻‍♂️ My Projects  
-- 🏋🏼‍♂️ [Devfit90](https://www.devfit90.com/es): Community for the top 1% of developers.
+- 🏋🏼‍♂️ [Devfit90](https://www.devfit90.com/es): 90 days challenge and community for devs.
 - ⚡ [Blitzshare](https://www.blitz-share.com/): Grow your audience.
 - 👥 ??: Monetize your community
 
