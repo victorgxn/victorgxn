@@ -2,7 +2,7 @@
 I code things and share how I do it on YouTube.
 
 ## 🗃️ Current Projects
-- All in one project
+- Shaping the future for content creators. 
 
 ## 📢 Social Media  
 - 🧑🏻 Instagram: [@codegxn](https://www.instagram.com/code.gxn)  
