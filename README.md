@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Victor Gonzalez  
 I code things and share how I do it on YouTube.
 
-## 🗃️ Current Projects
-- Shaping the future for content creators. 
+## 🗃️ Proyectos actuales  
+- 🚀 Creando mi startup: [Más información aquí](https://victorgxn.com/startup)
 
-## 📢 Social Media  
-- 🧑🏻 Instagram: [@codegxn](https://www.instagram.com/code.gxn)  
-- 🎬 YouTube (Vlogs): [victorgxn](https://www.youtube.com/@victorgxn)  
-- 💻 YouTube (SASS): [Code GXN](https://www.youtube.com/@codegxn)
-- 😎 Personal ig: [@victorgxn](https://www.instagram.com/victorgxn)
+## 📢 Redes sociales  
+- 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
+- 😎 Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
 
-
+## ✍🏼 Blog  
+- [¿Por qué los programadores juniors deberían usar menos la IA?](https://victorgxn.com/blog/ia-programadores-juniors)  
