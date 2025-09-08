@@ -2,7 +2,7 @@
 I code things and share how I do it on YouTube.
 
 ## 🗃️ Proyectos actuales  
-- 🚀 Creando mi startup: [Más información aquí](https://victorgxn.com/startup)
+- 🚀 [Creando mi startup:](https://victorgxn.com/startup)
 
 ## 📢 Redes sociales  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
