@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Victor Gonzalez  
-I code things and share how I do it on YouTube.
+Programo cosas y lo enseño en youtube.
 
 ## 🗃️ Proyectos actuales  
 - 🚀 [Creando mi startup:](https://victorgxn.com/startup)
