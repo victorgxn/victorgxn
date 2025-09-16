@@ -2,7 +2,7 @@
 Programo cosas y lo enseño en youtube.
 
 ## 🗃️ Proyectos actuales  
-- 🚀 [Creando mi startup:](https://victorgxn.com/startup)
+- 🚀 [Creando mi startup](https://victorgxn.com/startup)
 
 ## 📢 Redes sociales  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
