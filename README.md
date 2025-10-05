@@ -9,4 +9,6 @@ Programo cosas y lo enseño en youtube.
 - 😎 Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
 
 ## ✍🏼 Blog  
-- [¿Por qué los programadores juniors deberían usar menos la IA?](https://victorgxn.com/blog/ia-programadores-juniors)  
+- [¿Por qué los programadores juniors deberían usar menos la IA?](https://victorgxn.com/blog/ia-programadores-juniors)
+- [La función mas importante de mi codigo](https://victorgxn.com/blog/la-funcion-mas-importante-de-mi-codigo)
+
