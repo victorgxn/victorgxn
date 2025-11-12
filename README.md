@@ -2,7 +2,7 @@
 Programo cosas y lo enseño en youtube.
 
 ## 🗃️ Proyectos actuales  
-- 🚀 [Crealo.io](https://victorgxn.com/startup) - Gestiona tu negocio digital desde una sola plataforma. (Alternativa a Gumroad y Hotmart centrada en la economia del usuario.)
+- 🚀 [Crealo.io](https://victorgxn.com/startup) - Gestiona tu negocio digital desde una sola plataforma.
 
 ## 📢 Redes sociales  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
