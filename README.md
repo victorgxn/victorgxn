@@ -10,5 +10,5 @@ Programo cosas y lo enseño en youtube.
 
 ## ✍🏼 Blog  
 - [¿Por qué los programadores juniors deberían usar menos la IA?](https://victorgxn.com/blog/ia-programadores-juniors)
-- [La función mas importante de mi codigo](https://victorgxn.com/blog/la-funcion-mas-importante-de-mi-codigo)
-
+- [La función más importante de mi código](https://victorgxn.com/blog/la-funcion-mas-importante-de-mi-codigo)
+- [Por qué debes evitar usar Server Actions en Next.js](https://victorgxn.com/blog/evitar-server-actions-data-fetching-nextjs)
