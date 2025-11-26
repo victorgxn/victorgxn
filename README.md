@@ -5,11 +5,11 @@ I like creating things. Mostly on the internet.
 - 🚀 **[Crealo.io](https://victorgxn.com/startup)** – Gestiona tu negocio digital desde una sola plataforma.  
 
 - ⚡ **Blitz-Share** *(deprecated)*  
-  Herramienta para gestionar cuentas de redes sociales, abandonada antes del lanzamiento por falta de una estrategia de marketing sólida y la creciente competencia.  
+  Herramienta para gestionar cuentas de redes sociales, abandonada antes del lanzamiento por falta de una estrategia de marketing sólida y la gran competencia (falta de analisis antes).  
   Video: https://youtu.be/PigzDoHpTJs?si=JhSE8OpnLCQL_kat  
 
 - 🎯 **DevFit90** *(deprecated)*  
-  Comunidad privada para developers con un reto de 90 días, herramientas de organización y gamificación; tuvo ventas iniciales pero terminó perdiendo tracción.  
+  Comunidad privada para developers con un reto de 90 días, herramientas de organización y gamificación; tuvo ventas iniciales pero terminó perdiendo tracción (me rendí).  
   Video: https://youtu.be/6iSfBrW7VWY?si=GbLf2nn2i-YYDqai  
 
 ## 📢 Redes sociales  
