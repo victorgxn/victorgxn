@@ -1,10 +1,17 @@
 # 👋 Hi, I'm Victor Gonzalez  
 I like creating things. Mostly on the internet.
 
-## 🗃️ Productos   
-- 🚀 [Crealo.io](https://victorgxn.com/startup) - Gestiona tu negocio digital desde una sola plataforma.
-- 🏋️‍♂️ [Devfit90](https://victorgxn.com/startup) - Reto 90 dias para programadores (WORKING V2)
-  
+## 🗃️ Productos  
+- 🚀 **[Crealo.io](https://victorgxn.com/startup)** – Gestiona tu negocio digital desde una sola plataforma.  
+
+- ⚡ **Blitz-Share** *(deprecated)*  
+  Herramienta para gestionar cuentas de redes sociales, abandonada antes del lanzamiento por falta de una estrategia de marketing sólida y la creciente competencia.  
+  Video: https://youtu.be/PigzDoHpTJs?si=JhSE8OpnLCQL_kat  
+
+- 🎯 **DevFit90** *(deprecated)*  
+  Comunidad privada para developers con un reto de 90 días, herramientas de organización y gamificación; tuvo ventas iniciales pero terminó perdiendo tracción.  
+  Video: https://youtu.be/6iSfBrW7VWY?si=GbLf2nn2i-YYDqai  
+
 ## 📢 Redes sociales  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
 - 😎 Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
