@@ -2,7 +2,8 @@
 I like creating things. Mostly on the internet.
 
 ## 🗃️ Productos  
-- 🚀 **[Crealo.io](https://victorgxn.com/startup)** – Gestiona tu negocio digital desde una sola plataforma.  
+- 🚀 **[Crealo.io](https://victorgxn.com/startup)** – Gestiona tu negocio digital desde una sola plataforma.
+- 📖 **[De cero a SaaS](https://www.crealo.io/u/victorgxn/de-cero-a-saas)** –  Guía paso a paso por el camino real del indie hacker.
 
 - ⚡ **Blitz-Share** *(deprecated)*  
   Herramienta para gestionar cuentas de redes sociales, abandonada antes del lanzamiento por falta de una estrategia de marketing sólida y la gran competencia (falta de analisis antes).  
