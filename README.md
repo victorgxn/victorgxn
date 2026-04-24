@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Victor Gonzalez  
 I like creating things. Mostly on the internet.
 
-## 🗃️ Productos [Activos]  
-- 🚀 **[Empiezatusaas](https://www.empiezatusaas.com/)** – Lanza tu startup en dias no en meses.
-- 🛠️ **[Achieveroom App Studio](https://www.achiveroom.com/)** – Software development studio.
-- 📚 **[Crealo.io](https://www.crealo.io)** – Plataforma para vender productos digitales con comisiones bajas.  
-- 📖 **[De cero a SaaS](https://www.crealo.io/u/victorgxn/de-cero-a-saas)** – Mi libro sobre indie hacking y saas.  
+## 🗃️ Products [Active]  
+- 🚀 **[EmpiezaTuSaaS](https://www.empiezatusaas.com/)** – Launch your startup in days, not months.  
+- 🛠️ **[Achieveroom App Studio](https://www.achiveroom.com/)** – Software development studio.  
+- 📚 **[Crealo.io](https://www.crealo.io)** – Platform to sell digital products with low commissions.  
+- 📖 **[From Zero to SaaS](https://www.crealo.io/u/victorgxn/de-cero-a-saas)** – My book about indie hacking and SaaS.  
 
-## 💀 Cementario de ideas
+## 💀 Graveyard of Ideas  
 - ⚡ **Blitz-Share** *(deprecated)*  
-  Herramienta para gestionar cuentas de redes sociales, abandonada antes del lanzamiento por falta de una estrategia de marketing sólida y la gran competencia (falta de analisis antes).  
+  Tool to manage social media accounts, abandoned before launch due to a lack of a solid marketing strategy and high competition (lack of prior analysis).  
   Video: https://youtu.be/PigzDoHpTJs?si=JhSE8OpnLCQL_kat  
 
 - 🎯 **DevFit90** *(deprecated)*  
-  Comunidad privada para developers con un reto de 90 días, herramientas de organización y gamificación; tuvo ventas iniciales pero terminó perdiendo tracción (me rendí).  
+  Private community for developers with a 90-day challenge, organization tools, and gamification; it had initial sales but eventually lost traction (I gave up).  
   Video: https://youtu.be/6iSfBrW7VWY?si=GbLf2nn2i-YYDqai  
 
-## 📢 Redes sociales  
+## 📢 Social Media  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
 - 😎 Instagram: [@victorgxn](https://www.instagram.com/victorgxn)  
 - 🐦 Twitter (X): [@victorgxn](https://x.com/victorgxn)  
-- 💼 LinkedIn: [Victor Gonzalez](https://es.linkedin.com/in/victorgxn)
-
+- 💼 LinkedIn: [Victor Gonzalez](https://es.linkedin.com/in/victorgxn)  
