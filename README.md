@@ -2,6 +2,7 @@
 I like creating things. Mostly on the internet.
 
 ## 🗃️ Products [Active]  
+- 🥔 **[Spudy App](https://www.spudy.app/)** - Earn your screen time by completing real habits.
 - 🚀 **[EmpiezaTuSaaS](https://www.empiezatusaas.com/)** – Launch your startup in days, not months.  
 - 🛠️ **[Achieveroom App Studio](https://www.achiveroom.com/)** – Software development studio.  
 - 📚 **[Crealo.io](https://www.crealo.io)** – Platform to sell digital products with low commissions.  
