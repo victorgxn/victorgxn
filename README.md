@@ -2,7 +2,7 @@
 I like creating things. Mostly on the internet.
 
 ## 🖌️ Magnus opus  
-- Start building and growing in app subscriptions [0%]
+- The next generation unicorns will be built by solo developers. ❓ makes that dream possible. [0%]
 
 ## 🗃️ Products [Active]  
 - 🥔 **[Spudy App](https://www.spudy.app/)** - Earn your screen time by completing real habits.
