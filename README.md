@@ -4,14 +4,18 @@ I like creating things. Mostly on the internet.
 ## 🖌️ Magnus opus  
 - The next generation unicorns apps will be built by solo developers. ❓ makes that dream possible. [0%]
 
+<img width="2172" height="724" alt="manifiesto" src="https://github.com/user-attachments/assets/aa264d47-405d-4ab7-898d-9fec82f68475" />
+
+
+
 ## 🗃️ Products [Active]  
 - 🥔 **[Spudy App](https://www.spudy.app/)** - Earn your screen time by completing real habits.
-- 🚀 **[EmpiezaTuSaaS](https://www.empiezatusaas.com/)** – Launch your startup in days, not months.  
 - 🛠️ **[Achieveroom App Studio](https://www.achiveroom.com/)** – Software development studio.  
-- 📚 **[Crealo.io](https://www.crealo.io)** – Platform to sell digital products with low commissions.  
-- 📖 **[From Zero to SaaS](https://www.crealo.io/u/victorgxn/de-cero-a-saas)** – My book about indie hacking and SaaS.  
 
 ## 💀 Graveyard of Ideas  
+- 📚 **[Crealo.io](https://www.crealo.io)** – Platform to sell digital products with low commissions.  
+- 📖 **[From Zero to SaaS](https://www.crealo.io/u/victorgxn/de-cero-a-saas)** – My book about indie hacking and SaaS.  
+- 🚀 **[EmpiezaTuSaaS](https://www.empiezatusaas.com/)** – Launch your startup in days, not months.
 - ⚡ **Blitz-Share** *(deprecated)*  
   Tool to manage social media accounts, abandoned before launch due to a lack of a solid marketing strategy and high competition (lack of prior analysis).  
   Video: https://youtu.be/PigzDoHpTJs?si=JhSE8OpnLCQL_kat  
