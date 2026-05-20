@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Victor Gonzalez  
 I like creating things. Mostly on the internet.
 
+## 🖌️ Magnus opus  
+- Start building and growing in app subscriptions [0%]
+
 ## 🗃️ Products [Active]  
 - 🥔 **[Spudy App](https://www.spudy.app/)** - Earn your screen time by completing real habits.
 - 🚀 **[EmpiezaTuSaaS](https://www.empiezatusaas.com/)** – Launch your startup in days, not months.  
