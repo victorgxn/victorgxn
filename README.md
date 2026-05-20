@@ -2,7 +2,7 @@
 I like creating things. Mostly on the internet.
 
 ## 🖌️ Magnus opus  
-- The next generation unicorns apps will be built by solo developers. ❓ makes that dream possible. [0%]
+- The next generation of unicorn apps will be built by solo developers. ❓ makes that dream possible. [0%]
 
 <img width="2172" height="724" alt="manifiesto" src="https://github.com/user-attachments/assets/aa264d47-405d-4ab7-898d-9fec82f68475" />
 
