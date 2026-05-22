@@ -7,7 +7,7 @@ I like creating things. Mostly on the internet.
 - 🛠️ **[Achieveroom App Studio](https://www.achiveroom.com/)** – Software development studio.  
 - 🥔 **[Spudy App](https://www.spudy.app/)** - Earn your screen time by completing real habits.
   
-# Dead Projects
+## Dead Projects 💀
 
 <img width="600" height="150" alt="Dead Projects" src="https://github.com/user-attachments/assets/e62e6ed6-cff1-419a-9a57-2f03da6f493a" />
 
