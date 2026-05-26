@@ -25,7 +25,7 @@ I like creating things. Mostly on the internet.
   **Video:** [Watch on YouTube](https://youtu.be/6iSfBrW7VWY?si=GbLf2nn2i-YYDqai)
 
  - 📖 **From Zero to SaaS** — My book about indie hacking and SaaS.
-- 🚀 **EmpiezatuSaaS ** — SaaS Boilerplate.
+- 🚀 **EmpiezatuSaaS** — SaaS Boilerplate.
 
 ## 📢 Social Media  
 - 💻 YouTube: [victorgxn](https://www.youtube.com/@victorgxn)  
