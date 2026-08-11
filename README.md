@@ -9,13 +9,13 @@ I like creating things. Mostly on the internet.
 * 💡 **[AppFounders](https://appfounders.es/)** – Find your next app idea.
 * 🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Software development studio.
 * 🥔 **[Spudy App](https://www.spudy.app/)** – Earn your screen time by completing real habits.
+* - 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things).  
+  **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe)
   
 ## Dead Projects 💀
 
 <img width="600" height="150" alt="Dead Projects" src="https://github.com/user-attachments/assets/e62e6ed6-cff1-419a-9a57-2f03da6f493a" />
 
-- 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things).  
-  **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe)
 
 
 
