@@ -4,13 +4,11 @@ I like creating things. Mostly on the internet.
 ## Projects 🎯
 <img width="600" height="150"  alt="proyectos" src="https://github.com/user-attachments/assets/1e1a9f64-2517-455c-873c-283d116c6234" />
 
-* 📊 **[Attriloop](https://app.attriloop.com/)** – Know exactly what drives your growth.
-* 🙏 **[FaithLocked](https://www.faithlocked.com/)** – Pray to unlock your apps.
-* 💡 **[AppFounders](https://appfounders.es/)** – Find your next app idea.
 * 🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Software development studio.
+* 🙏 **[FaithLocked](https://www.faithlocked.com/)** – Pray to unlock your apps.
 * 🥔 **[Spudy App](https://www.spudy.app/)** – Earn your screen time by completing real habits.
-* - 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things).  
-  **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe)
+* 📊 **[Attriloop](https://app.attriloop.com/)** – Know exactly what drives your growth.
+* 💡 **[AppFounders](https://appfounders.es/)** – Find your next app idea.
   
 ## Dead Projects 💀
 
@@ -18,7 +16,9 @@ I like creating things. Mostly on the internet.
 
 
 
-
+* 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things).  
+  **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe)
+  
 - ⚡ **Blitz-Share** *(deprecated)*  
   A tool to manage social media accounts. I abandoned it before launch due to the lack of a solid marketing strategy and high competition.  
   **Video:** [Watch on YouTube](https://youtu.be/PigzDoHpTJs?si=JhSE8OpnLCQL_kat)
