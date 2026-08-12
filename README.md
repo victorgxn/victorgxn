@@ -7,8 +7,7 @@ I like creating things. Mostly on the internet.
 * 🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Software development studio.
 * 🙏 **[FaithLocked](https://www.faithlocked.com/)** – Pray to unlock your apps.
 * 🥔 **[Spudy App](https://www.spudy.app/)** – Earn your screen time by completing real habits.
-* 📊 **[Attriloop](https://app.attriloop.com/)** – Know exactly what drives your growth.
-* 💡 **[AppFounders](https://appfounders.es/)** – Find your next app idea.
+* 💡 **[AppFounders](https://appfounders.es/)** – Learn to code.
   
 ## Dead Projects 💀
 
