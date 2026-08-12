@@ -4,10 +4,10 @@ I like creating things. Mostly on the internet.
 ## Projects 🎯
 <img width="600" height="150"  alt="proyectos" src="https://github.com/user-attachments/assets/1e1a9f64-2517-455c-873c-283d116c6234" />
 
-* 🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Software development studio.
 * 🙏 **[FaithLocked](https://www.faithlocked.com/)** – Pray to unlock your apps.
 * 🥔 **[Spudy App](https://www.spudy.app/)** – Earn your screen time by completing real habits.
-* 💡 **[AppFounders](https://appfounders.es/)** – Learn to code.
+* 💡 **[AppFounders](https://appfounders.es/)** – Learn to code with me.
+*  🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Turn your idea into a product with me.
   
 ## Dead Projects 💀
 
