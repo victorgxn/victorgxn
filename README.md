@@ -2,7 +2,6 @@
 I like creating things. Mostly on the internet.
 
 ## Projects 🎯
-<img width="600" height="150"  alt="proyectos" src="https://github.com/user-attachments/assets/1e1a9f64-2517-455c-873c-283d116c6234" />
 
 * 🙏 **[FaithLocked](https://www.faithlocked.com/)** – Pray to unlock your apps.
 * 🥔 **[Spudy App](https://www.spudy.app/)** – Earn your screen time by completing real habits.
@@ -10,11 +9,6 @@ I like creating things. Mostly on the internet.
 *  🛠️ **[Achiveroom App Studio](https://www.achiveroom.com/)** – Turn your idea into a product with me.
   
 ## Dead Projects 💀
-
-<img width="600" height="150" alt="Dead Projects" src="https://github.com/user-attachments/assets/e62e6ed6-cff1-419a-9a57-2f03da6f493a" />
-
-
-
 * 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things). I just realized that if I were to create a SaaS product, it would have to be something that I, my own ICP, would use. 
   **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe) 
   
