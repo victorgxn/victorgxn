@@ -9,7 +9,7 @@ I like creating things. Mostly on the internet.
 * 📱 **[AppFounders](https://appfounders.es/)** – Private app founders discord
   
 ## Dead Projects 💀
-* 🐙**Attriloop** – One link to all app stores
+* 🐙**Attriloop** – One link to all app stores. **Launch video:** [Watch on YouTube](https://youtu.be/yhxMploGgto?si=D9inVXmEjfCcE_P6) 
 * 📚 **Crealo** — Platform to sell digital products with low commissions (Ebooks, Courses, Link in bio and more things). I just realized that if I were to create a SaaS product, it would have to be something that I, my own ICP, would use. 
   **Playlist:** [Watch on YouTube](https://www.youtube.com/watch?v=LEHTsOVg8c4&list=PLiq4qlFI3HJNeVO8SY81pyqhoq9sC4EIe) 
   
